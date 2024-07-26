@@ -1,4 +1,12 @@
-# 巴黎奥运会金牌赛程表
+# 巴黎奥运会项目赛程表
+
+> 该项目仅用于查看当日比赛赛程，具体比赛时间:
+>
+> 点击 [全部赛程](https://tiyu.baidu.com/al/major/home?page=home&match=2024%E5%B9%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A&tab=%E8%B5%9B%E7%A8%8B&disciplineId=all&date=2024-07-26&firstScheduleId=46&scheduleType=all) 查看全部赛程
+> 
+> 点击 [热门赛程](https://tiyu.baidu.com/al/major/home?page=home&match=2024%E5%B9%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A&tab=%E8%B5%9B%E7%A8%8B&disciplineId=all&date=2024-07-26&firstScheduleId=46&scheduleType=all) 查看热门赛程
+> 
+> 点击 [中国赛程](https://tiyu.baidu.com/al/major/home?page=home&match=2024%E5%B9%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A&tab=%E8%B5%9B%E7%A8%8B&disciplineId=all&date=2024-07-26&firstScheduleId=46&scheduleType=all) 查看中国赛程
 
 ## 前 5 金牌榜
 
